@@ -116,17 +116,3 @@
 ;; das muss ganz runter, weil sonst die anderen Einstellungen  beim init nicht geladen werden
 ;(desktop-save-mode 1)
 ;(desktop-read)
-(custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(package-selected-packages
-   '(auctex autothemer benchmark-init company dashboard dracula-theme ess
-	    magit move-text pdf-tools quarto-mode yasnippet)))
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
