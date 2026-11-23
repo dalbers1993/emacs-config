@@ -5,7 +5,7 @@
 ;; Theme einstellen
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (load-theme 'dracula t)
-;(load-theme 'mytheme t) ;das überschreibt nur die faces, die ich definiere, das heißt dracula ist backup
+;(load-theme 'mytheme t) ;das überschreibt nur die faces, die ich definiere, das heißt dracula ist als backup immer da
 
 ;; Grundsätzliche  Konfigurationen
 (use-package emacs
